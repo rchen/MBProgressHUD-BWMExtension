@@ -14,7 +14,7 @@ s.summary      = "Nihility-Ming to MBProgressHUD extension, easy to use."
 
 s.description  = <<-DESC
 1、Use simple.
-2、No intrusive.
+2、Not pollute MBProgressHUD, completely decoupled.
 3、Custom Level high.
 DESC
 

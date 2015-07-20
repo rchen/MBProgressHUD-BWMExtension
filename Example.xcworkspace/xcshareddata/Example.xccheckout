@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>15F59472-AFE9-47B0-BA34-D6D4E9C3FF29</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Example</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FFB3035E052B8A39F45501AAB0E95963AA533DD4</key>
+		<string>https://github.com/Nihility-Ming/MBProgressHUD-BWMExtension.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Example.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FFB3035E052B8A39F45501AAB0E95963AA533DD4</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Nihility-Ming/MBProgressHUD-BWMExtension.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FFB3035E052B8A39F45501AAB0E95963AA533DD4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FFB3035E052B8A39F45501AAB0E95963AA533DD4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MBProgressHUD-BWMExtension</string>
+		</dict>
+	</array>
+</dict>
+</plist>

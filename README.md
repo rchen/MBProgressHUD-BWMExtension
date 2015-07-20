@@ -1,7 +1,9 @@
 # MBProgressHUD+BWMExtension
 Nihility-Ming to MBProgressHUD extension, easy to use.
 
-# MBProgressHUD+BWMExtension.h
+---
+
+## MBProgressHUD+BWMExtension.h
 
 ```Objective-C
 /**
@@ -84,12 +86,12 @@ typedef NS_ENUM(NSUInteger, BWMMBProgressHUDMsgType) {
 
 ```
 
-# Usage
+## Usage
 
 ```Ruby
 pod 'MBProgressHUD+BWMExtension'
 ```
 
-# License
+## License
 
 `MBProgressHUD+BWMExtension` is available under the MIT license. 

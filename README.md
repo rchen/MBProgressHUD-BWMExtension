@@ -2,7 +2,7 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md) 
 [![forks](https://img.shields.io/github/forks/Nihility-Ming/MBProgressHUD-BWMExtension.svg)](#)
-[![stars](https://img.shields.io/github/stars/Nihility-Ming/MBProgressHUD-BWMExtension.svg)](#) [![CocoaPods](https://img.shields.io/badge/CocoaPods-Support-green.svg)](#cocoapods)
+[![stars](https://img.shields.io/github/stars/Nihility-Ming/MBProgressHUD-BWMExtension.svg)](#) [![CocoaPods](https://img.shields.io/badge/CocoaPods-Support-green.svg)](#usage)
 [![Release](https://img.shields.io/badge/release-1.0.0-orange.svg)](#)
 
 Nihility-Ming to MBProgressHUD extension, easy to use.

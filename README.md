@@ -92,7 +92,7 @@ typedef NS_ENUM(NSUInteger, BWMMBProgressHUDMsgType) {
 
 ```
 
-## ScreenShots
+## Screenshots
 
 <table align="center">
     <tr>

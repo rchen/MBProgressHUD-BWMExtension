@@ -1,4 +1,10 @@
 # MBProgressHUD+BWMExtension
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md) 
+[![forks](https://img.shields.io/github/forks/Nihility-Ming/MBProgressHUD-BWMExtension.svg)](#)
+[![stars](https://img.shields.io/github/stars/Nihility-Ming/MBProgressHUD-BWMExtension.svg)](#) [![CocoaPods](https://img.shields.io/badge/CocoaPods-Support-green.svg)](#cocoapods)
+[![Release](https://img.shields.io/badge/release-1.0.0-orange.svg)](#)
+
 Nihility-Ming to MBProgressHUD extension, easy to use.
 
 ---
@@ -85,6 +91,23 @@ typedef NS_ENUM(NSUInteger, BWMMBProgressHUDMsgType) {
 @end
 
 ```
+
+## ScreenShots
+
+<table align="center">
+    <tr>
+        <td><img src="ScreenShots/01.png" /></td>
+        <td><img src="ScreenShots/02.png" /></td>
+    </tr>
+    <tr>
+        <td><img src="ScreenShots/03.png" /></td>
+        <td><img src="ScreenShots/04.png" /></td>
+    </tr>
+    <tr>
+        <td><img src="ScreenShots/05.png" /></td>
+        <td></td>
+    </tr>
+</table>
 
 ## Usage
 

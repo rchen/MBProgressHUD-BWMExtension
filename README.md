@@ -105,7 +105,7 @@ typedef NS_ENUM(NSUInteger, BWMMBProgressHUDMsgType) {
     </tr>
     <tr>
         <td><img src="ScreenShots/05.png" /></td>
-        <td></td>
+        <td><img src="ScreenShots/06.png" /></td>
     </tr>
 </table>
 

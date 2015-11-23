@@ -154,6 +154,12 @@ Please note that if your installation fails, it may be because you are installin
 
 All you need to do is drop `Example/MBProgressHUD+BWMExtension` files into your project, and add `#include "MBProgressHUD+BWMExtension.h"` to the top of classes that will use it.
 
+### Versions
+
+#### 1.0.1
+
+Fixed bug of missing image files.
+
 ## Usage
 
 ```Ruby

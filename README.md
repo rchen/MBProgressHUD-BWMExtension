@@ -160,7 +160,7 @@ All you need to do is drop `Example/MBProgressHUD+BWMExtension` files into your 
 
 Fixed bug of missing image files.
 
-### 1.0.0
+#### 1.0.0
 
 Build.
 

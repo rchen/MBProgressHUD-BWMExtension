@@ -3,7 +3,7 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md) 
 [![forks](https://img.shields.io/github/forks/Nihility-Ming/MBProgressHUD-BWMExtension.svg)](#)
 [![stars](https://img.shields.io/github/stars/Nihility-Ming/MBProgressHUD-BWMExtension.svg)](#) [![CocoaPods](https://img.shields.io/badge/CocoaPods-Support-green.svg)](#usage)
-[![Release](https://img.shields.io/badge/release-1.0.0-orange.svg)](#)
+[![Release](https://img.shields.io/badge/release-1.0.1-orange.svg)](#)
 
 Nihility-Ming to MBProgressHUD extension, easy to use.
 
@@ -159,6 +159,10 @@ All you need to do is drop `Example/MBProgressHUD+BWMExtension` files into your 
 #### 1.0.1
 
 Fixed bug of missing image files.
+
+### 1.0.0
+
+Build.
 
 ## Usage
 

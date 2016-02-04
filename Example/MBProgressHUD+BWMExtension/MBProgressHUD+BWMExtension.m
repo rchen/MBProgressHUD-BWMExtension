@@ -35,6 +35,8 @@ static CGFloat OPACITY = 0.85;
     HUD.labelFont = [UIFont systemFontOfSize:FONT_SIZE];
     HUD.labelText = title;
     HUD.opacity = OPACITY;
+    HUD.color = [UIColor clearColor];
+    HUD.activityIndicatorColor = [UIColor grayColor];
     return HUD;
 }
 
